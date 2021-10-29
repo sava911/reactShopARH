@@ -1,11 +1,9 @@
-import logo from './logo.svg';
-import './App.css';
 
 function App() {
-    return ( <
-        div className = "App" >
-        hello word <
-        /div>
+    return (
+        <div className="App">
+            save block safely
+        </div>
     );
 }
 
